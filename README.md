@@ -20,4 +20,5 @@ Employed in medical imaging, classification, and financial forecasting.
 
 # Resources
 [What are Support Vector Machines](https://www.ibm.com/think/topics/support-vector-machine)
+
 [Support Vector Machines (SVM): An Intuitive Explanation](https://medium.com/low-code-for-advanced-data-science/support-vector-machines-svm-an-intuitive-explanation-b084d6238106)
