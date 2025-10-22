@@ -19,4 +19,4 @@ Common in natural language processing for tasks such as spam detection and senti
 Employed in medical imaging, classification, and financial forecasting. 
 
 # Resources
-[What are Support Vector Machines]([url](https://www.ibm.com/think/topics/support-vector-machine))
+[What are Support Vector Machines](https://www.ibm.com/think/topics/support-vector-machine)
