@@ -1,4 +1,4 @@
-# Support-Vector-Machines-SVM-
+# Support-Vector-Machines-SVM
 A Support Vector Machine (SVM) is a supervised machine learning algorithm that finds an optimal line or hyperplane to separate data into classes for classification, or to predict a continuous value for regression. Its primary goal is to maximize the margin, which is the distance between the hyperplane and the closest data points from either side. SVMs are versatile and can handle both linear and non-linear data through the use of kernel functions, which implicitly transform the data into a higher dimension to find a separating hyperplane.
 ## How it works
 ### Hyperplane: 
