@@ -17,3 +17,6 @@ Used in applications like facial recognition and voice command assistants.
 Common in natural language processing for tasks such as spam detection and sentiment analysis. 
 ### Medical and financial analysis: 
 Employed in medical imaging, classification, and financial forecasting. 
+
+# Resources
+[What are Support Vector Machines]([url](https://www.ibm.com/think/topics/support-vector-machine))
